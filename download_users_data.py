@@ -2,13 +2,13 @@ from urllib.request import urlopen
 from time import sleep 
 
 token = '4f318b471cda5c6bd6337cfc2644b478038ee7bb09a6158395101a036b834fc315c19b3fec6b9e28ea370'
-users_counter = 1322
+users_counter = 11014
 
 #users_file = open('users_data/1', 'r', encoding='cp1251').read()
 #print((users_file))
 
 
-while users_counter < 10000:
+while users_counter < 100000:
 	try:
 		print('downloaded ' + str(users_counter) + ' users')
 		users_counter += 1
