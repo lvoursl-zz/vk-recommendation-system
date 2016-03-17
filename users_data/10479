@@ -1,2 +1,3 @@
-[{"first_name": "Сергей", "books": "Лукьяненко С. "Черновик", Стругацкие "Пикник на обочине", Ден Симмонс "Гиперион"", "interests": "КВН, skydiving, rope jumping", "tv": "", "games": "Fallout", "movies": "Назад в будущее, Крикуны, Особое мнение, Начало", "last_name": "Зотов", "music": "Кино, Dredg, Evanescence, Coldplay", "activities": "", "uid": 10479}]
+[{'first_name': 'Сергей', 'books': 'Лукьяненко С. 'Черновик', Стругацкие 'Пикник на обочине', Ден Симмонс 'Гиперион'', 'interests': 'КВН, skydiving, rope jumping', 'tv': '', 'games': 'Fallout', 'movies': 'Назад в будущее, Крикуны, Особое мнение, Начало', 'last_name': 'Зотов', 'music': 'Кино, Dredg, Evanescence, Coldplay', 'activities': '', 'uid': 10479}]
+
 

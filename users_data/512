@@ -1,2 +1,3 @@
-[{"tv": "life", "games": "покер", "music": "", "books": "select * from all order by id", "movies": "den brysomme mannen, reconstruction, knocking on heavens door, bom yeoreum gaeul gyeoul guerigo bom, облако-рай, Коля-перекати-поле, гараж, fight club, memento, mr.nobody, пыль, начало, кочегар, сады осенью", "activities": "academ", "uid": 512, "first_name": "Егор", "interests": "ITM", "last_name": "Деметрадзе"}]
+[{'tv': 'life', 'games': 'покер', 'music': '', 'books': 'select * from all order by id', 'movies': 'den brysomme mannen, reconstruction, knocking on heavens door, bom yeoreum gaeul gyeoul guerigo bom, облако-рай, Коля-перекати-поле, гараж, fight club, memento, mr.nobody, пыль, начало, кочегар, сады осенью', 'activities': 'academ', 'uid': 512, 'first_name': 'Егор', 'interests': 'ITM', 'last_name': 'Деметрадзе'}]
+
 

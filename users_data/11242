@@ -1,2 +1,3 @@
-[{"first_name": "Александр", "deactivated": "banned", "uid": 11242, "last_name": "Кулаков"}]
+[{'first_name': 'Александр', 'deactivated': 'banned', 'uid': 11242, 'last_name': 'Кулаков'}]
+
 

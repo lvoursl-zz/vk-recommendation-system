@@ -1,2 +1,3 @@
-[{"last_name": "Фролов", "games": "poker, fifa", "movies": "The Sopranos", "tv": "Лига Чемпионов", "uid": 2222, "music": "разная", "activities": "была", "interests": "новые", "books": "УК РФ", "first_name": "Илья"}]
+[{'last_name': 'Фролов', 'games': 'poker, fifa', 'movies': 'The Sopranos', 'tv': 'Лига Чемпионов', 'uid': 2222, 'music': 'разная', 'activities': 'была', 'interests': 'новые', 'books': 'УК РФ', 'first_name': 'Илья'}]
+
 

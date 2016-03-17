@@ -1,2 +1,3 @@
-[{"last_name": "Фамилия", "games": "КОд 4", "movies": "", "tv": "Камеди", "uid": 6498, "music": "", "activities": "Замечен не был", "interests": "", "books": "Букварь", "first_name": "Имя"}]
+[{'last_name': 'Фамилия', 'games': 'КОд 4', 'movies': '', 'tv': 'Камеди', 'uid': 6498, 'music': '', 'activities': 'Замечен не был', 'interests': '', 'books': 'Букварь', 'first_name': 'Имя'}]
+
 

@@ -16,7 +16,7 @@ while users_counter < 100000:
 		data = eval(request.read())	
 
 		users_file = open('users_data/' + str(users_counter), 'w')
-		print(str(data['response']).lower().replace("'", '"'), file = users_file)
+		print(str(data['response']).lower(), file = users_file)
 		users_file.close()
 
 		sleep(2)		
