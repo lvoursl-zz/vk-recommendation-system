@@ -2,7 +2,7 @@ from urllib.request import urlopen
 from time import sleep 
 
 token = '4f318b471cda5c6bd6337cfc2644b478038ee7bb09a6158395101a036b834fc315c19b3fec6b9e28ea370'
-users_counter = 11389
+users_counter = 12175
 
 #users_file = open('users_data/1', 'r', encoding='cp1251').read()
 #print((users_file))
